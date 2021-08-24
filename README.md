@@ -17,4 +17,4 @@ Each Machine Learning Algorithm used has been iterated for a 100 times to get th
 This combination has been stored as a pickle file for further use. 
 Due to the fact that the algorithms have been iterated this many times, SVM algorithm consumes a lot of time for completing its execution.
 
-K Nearest Neighbour Algorithm yields the highest prediction percentage, when nearest neighbours is set to 3. 
+K Nearest Neighbors Algorithm yields the highest prediction percentage, when nearest neighbours is set to 3. 
